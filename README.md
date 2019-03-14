@@ -11,8 +11,7 @@ It is also written with **clean code** in mind, rather than **performance**. Ple
 
 ## Algorithms
 So far I've managed to cover:
-- 
-- 
+- [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 ## Special thanks
 I was inspired to create this repository while reading **"Grokking Algorithms"** by [Aditya Bhargava](https://github.com/egonSchiele).
