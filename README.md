@@ -7,8 +7,7 @@ It is also written with **clean code** in mind, rather than **performance**. Ple
 
 ## Stack
 - JavaScript (ES2015+)
-- NPM
-- Karma + Jasmine
+- Jest
 
 ## Algorithms
 So far I've managed to cover:
