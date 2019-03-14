@@ -11,6 +11,7 @@ It is also written with **clean code** in mind, rather than **performance**. Ple
 
 ## Algorithms
 So far I've managed to cover:
+- [linear search](https://en.wikipedia.org/wiki/Linear_search) with sentinel
 - [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 ## Special thanks
