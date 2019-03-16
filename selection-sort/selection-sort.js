@@ -1,10 +1,11 @@
 function selectionSort(array) {
+  const unsorted = array.slice();
   const sorted = [];
 
-  while (array.length) {
-    const smallest = findSmallestElementIndex(array);
-    sorted.push(array[smallest]);
-    array.splice(smallest, 1);
+  while (unsorted.length) {
+    const smallest = findSmallestElementIndex(unsorted);
+    sorted.push(unsorted[smallest]);
+    unsorted.splice(smallest, 1);
   }
 
   return sorted;
