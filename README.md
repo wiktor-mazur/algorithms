@@ -13,6 +13,7 @@ It is also written with **clean code** in mind, rather than **performance**. Ple
 So far I've managed to cover:
 - [linear search](https://en.wikipedia.org/wiki/Linear_search) with sentinel
 - [binary search](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+- [selection sort](https://en.wikipedia.org/wiki/Selection_sort)
 
 ## Special thanks
 I was inspired to create this repository while reading **"Grokking Algorithms"** by [Aditya Bhargava](https://github.com/egonSchiele).
