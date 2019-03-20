@@ -20,15 +20,15 @@ const testCases = [
 ];
 
 function testFactorialFunction(fn) {
+  expect(() => {
+    fn(-1);
+  }).toThrow();
+
+  expect(() => {
+    fn(0.5);
+  }).toThrow();
+
   testCases.forEach((testCase) => {
-    expect(() => {
-      fn(-1);
-    }).toThrow();
-
-    expect(() => {
-      fn(0.5);
-    }).toThrow();
-
     expect(fn(testCase.argument)).toBe(testCase.expectedResult);
   });
 }
