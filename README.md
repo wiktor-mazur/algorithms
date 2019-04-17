@@ -13,6 +13,7 @@ It is also written with **clean code** in mind. Please, let me know if you have 
 So far I've managed to cover:
 - [Sorting](https://github.com/wiktor-mazur/algorithms/tree/master/src/sorting)
   - [selection sort](https://github.com/wiktor-mazur/algorithms/tree/master/src/sorting/selection-sort) - [(wiki)](https://en.wikipedia.org/wiki/Selection_sort)
+  - [merge sort](https://github.com/wiktor-mazur/algorithms/tree/master/src/sorting/merge-sort) - [(wiki)](https://en.wikipedia.org/wiki/Merge_sort)
   - [quicksort](https://github.com/wiktor-mazur/algorithms/tree/master/src/sorting/quicksort) - [(wiki)](https://en.wikipedia.org/wiki/Quicksort)
 - [Searching](https://github.com/wiktor-mazur/algorithms/tree/master/src/searching)
   - [linear search with sentinel](https://github.com/wiktor-mazur/algorithms/tree/master/src/searching/linear-search) - [(wiki)](https://en.wikipedia.org/wiki/Linear_search)
